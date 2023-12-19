@@ -52,7 +52,7 @@ The app follows the MVVM (Model-View-ViewModel) architecture, separating concern
 
 ## Installation
 Getting started with the Objective-C Business App is quick and easy:
-1. Clone the Repository: git clone https://github.com/Jr-Prashant/University-List-Swift.git
+1. **Clone the Repository:** git clone https://github.com/Jr-Prashant/University-List-Swift.git
 2. Open the project in Xcode and build/run the app.
 
 ## Usage
